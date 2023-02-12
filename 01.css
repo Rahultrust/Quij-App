@@ -1,0 +1,73 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.font{
+    border-style: outset;
+    background-color: darkseagreen;
+}
+.top{
+
+}
+.select_category.design{
+    display: grid;
+    align-content: start;
+    grid-template-columns: auto  auto;
+    gap: 10px;
+    padding:10px;
+    justify-content: center;
+}
+.btn_category.btn1{
+    border:3px solid yellowgreen;
+    height: 35px;
+    width: 200px;
+    padding: 2px;
+    align-content: center;
+    margin-top: 2rem;
+    border-radius: 15px;
+    font-style: italic;
+    background-color: rgb(0, 162, 255);
+}
+.btn_category.btn2{
+    border:3px solid yellowgreen;
+    height: 35px;
+    width: 200px;
+    padding: 2px;
+    align-content: center;
+    margin-top: 2rem;
+    border-radius: 15px;
+    font-style: italic;
+    background-color: rgb(0, 162, 255);
+}
+.btn_category.btn3{
+    border:3px solid yellowgreen;
+    height: 35px;
+    width: 200px;
+    padding: 2px;
+    align-content: center;
+    margin-top: 2rem;
+    border-radius: 15px;
+    font-style: italic;
+    background-color: rgb(0, 162, 255);
+}
+.btn_category.btn4{
+    border:3px solid yellowgreen;
+    height: 35px;
+    width: 200px;
+    padding: 2px;
+    align-content: center;
+    margin-top: 2rem;
+    border-radius: 15px;
+    font-style: italic;
+    background-color: rgb(0, 162, 255);
+}
+.btn.btn-success{
+color: red;
+background-color: yellow;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 150px   ;
+}
+.category.time.score{
+display: grid;
+}
